@@ -1,0 +1,26 @@
+{
+  "name": "dof-reader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aepyornis/dof-reader.git"
+  },
+  "author": "ziggy",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aepyornis/dof-reader/issues"
+  },
+  "homepage": "https://github.com/aepyornis/dof-reader#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "pdfjs-dist": "^2.0.466"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
