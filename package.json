@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-debug": "node inspect ./node_modules/mocha/bin/_mocha"
   },
   "repository": {
     "type": "git",

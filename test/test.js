@@ -21,7 +21,7 @@ describe('dofReader', () => {
     describe(testFile.file, () => {
       it('correctly parses', async () => {
 	let result = await dofReader(testFilePath);
-	assert.equal(result, testFile.result);
+	assert.deepEqual(result, testFile.result);
       });
     });
 
