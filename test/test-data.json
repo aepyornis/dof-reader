@@ -5,7 +5,20 @@
       "rentStabilized": true,
       "unitCount": 4
     }
-    
+  },
+  {
+    "file": "1010260009_june_2_2017.pdf",
+    "result": {
+      "rentStabilized": true,
+      "unitCount": 9
+    }
+  },
+  {
+    "file": "1013820036_aug_25_2017.pdf",
+    "result": {
+      "rentStabilized": false,
+      "unitCount": null
+    }
   }
   
 ]
