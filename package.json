@@ -1,6 +1,6 @@
 {
   "name": "dof-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/dofReader.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/aepyornis/dof-reader#readme",
   "bin": {
-    "dof-reader" : "./bin/dof-reader.js"
+    "dof-reader": "./bin/dof-reader.js"
   },
   "dependencies": {
     "lodash": "^4.17.5",
