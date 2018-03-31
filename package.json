@@ -2,7 +2,7 @@
   "name": "dof-reader",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/dofReader.js",
   "scripts": {
     "test": "mocha",
     "test-debug": "node inspect ./node_modules/mocha/bin/_mocha"
