@@ -3,21 +3,24 @@
     "file": "1018770052_aug_21_2015.pdf",
     "result": {
       "rentStabilized": true,
-      "unitCount": 4
+      "unitCount": 4,
+      "date": "2015-08-21"
     }
   },
   {
     "file": "1010260009_june_2_2017.pdf",
     "result": {
       "rentStabilized": true,
-      "unitCount": 9
+      "unitCount": 9,
+      "date": "2017-06-02"
     }
   },
   {
     "file": "1013820036_aug_25_2017.pdf",
     "result": {
       "rentStabilized": false,
-      "unitCount": null
+      "unitCount": null,
+      "date": "2017-08-25"
     }
   }
   
