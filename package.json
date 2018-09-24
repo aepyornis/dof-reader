@@ -1,6 +1,6 @@
 {
   "name": "dof-reader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "lib/dofReader.js",
   "scripts": {
@@ -21,8 +21,8 @@
     "dof-reader": "./bin/dof-reader.js"
   },
   "dependencies": {
-    "lodash": "^4.17.5",
-    "pdfjs-dist": "^2.0.466"
+    "lodash": "^4.17.11",
+    "pdfjs-dist": "^2.0.489"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
