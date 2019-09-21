@@ -21,11 +21,11 @@
     "dof-reader": "./bin/dof-reader.js"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
-    "pdfjs-dist": "^2.0.489"
+    "lodash": "^4.17.15",
+    "pdfjs-dist": "^2.1.266"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "mocha": "^5.0.5"
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
   }
 }
